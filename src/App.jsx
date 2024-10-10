@@ -6,7 +6,7 @@ import { useEffect, useState } from "react"
 
 
 function App() {
-
+// main component
 const [data , setData]= useState(null)
 const [loading ,setLoading] = useState(false)
   const [showModel , setShowModel] = useState(false)
